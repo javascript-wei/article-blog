@@ -7,8 +7,6 @@
 
 目录
 
-* 系列专题
-    * [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
 * 个人文章沉淀
     * SOLID设计原则系列
         * [提升前端代码质量之SOLID设计原则-SRP单一职责](https://juejin.cn/post/7194061498602225723)
